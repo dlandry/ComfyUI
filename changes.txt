@@ -1,0 +1,9 @@
+Added ComfyManager:
+------------------------------------------
+goto ComfyUI/custom_nodes dir in terminal(cmd)
+git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+Restart ComfyUI
+------------------------------------------
+
+
+
